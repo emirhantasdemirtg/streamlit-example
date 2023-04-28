@@ -1,4 +1,3 @@
-!pip install streamlit torch numpy scipy soundfile ffmpeg-python PySoundFile tqdm yt-dlp git+https://github.com/facebookresearch/demucs#egg=demucs
 
 import io
 from pathlib import Path
